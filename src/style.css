@@ -1,1 +1,21 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.container-fluidtext-center {
+  margin-top: 220px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+button {
+  font-size: 16px;
+  color: #fff;
+  background-color: black;
+  padding: 4px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+}
